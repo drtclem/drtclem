@@ -29,4 +29,4 @@ From investigating the **calculus pipeline in education** to training neural net
 
 ---
 
-> _“Turning raw data into impact—one model at a time.”_
+> _“Story-telling and action from data”_
