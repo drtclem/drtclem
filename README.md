@@ -8,7 +8,7 @@ I thrive on solving complex problems that matter—whether it’s aligning educa
 ---
 
 ### 🔭 I’m currently working on:
-- Image classification using **MobileNetV2**
+- Image classification using **Tensorflow**
 - Predictive modeling for **education & healthcare data**
 
 ---
