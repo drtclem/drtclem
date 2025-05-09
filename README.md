@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Taylor!
+## Hi, I'm Taylor!
 
 **Data Scientist & Machine Learning Engineer**  
 Focused on building meaningful, data-driven solutions in education, healthcare, and biotech.  
@@ -7,18 +7,18 @@ I thrive on solving complex problems that matter—whether it’s aligning educa
 
 ---
 
-### 🔭 I’m currently working on:
+### I’m currently working on:
 - Image classification using **Tensorflow**
 - Predictive modeling for **education & healthcare data**
 
 ---
 
-### 📫 Reach me at:
+### Reach me at:
 📧 taylor.clements@gmail.com
 
 ---
 
-### 📄 About Me
+### About Me
 I believe the best insights come from asking the right questions. With a background rooted in research and a drive to make data science more accessible and practical, I work on projects that blend technical rigor with real-world relevance.  
 From investigating the **calculus pipeline in education** to training neural networks for **medical image classification**, I approach data like a puzzle—with curiosity, care, and a bias toward action.
 
